@@ -110,16 +110,6 @@ context not control
 
 ---
 
-![fit](images/cloud.png)
-
-## microservices
-
----
-
-# *sub*cultures
-
----
-
 ![original](http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bulle_und_B%C3%A4r_Frankfurt.jpg/1280px-Bulle_und_B%C3%A4r_Frankfurt.jpg)
 
 # free market
@@ -141,6 +131,16 @@ they have the right to go elsewhere
 
 ![inline](images/engtools-paved-road.png)
 
+---
+
+![fit](images/cloud.png)
+
+## microservices
+
+---
+
+# *sub*cultures
+
 --- 
 
 # [fit] one *paved road*
@@ -156,7 +156,7 @@ they have the right to go elsewhere
 
 ---
 
-# visualize *spectrum* of customers
+![](images/spectrum.jpg)
 
 ---
 
@@ -330,7 +330,7 @@ they have the right to go elsewhere
 
 ![](images/emails.png)
 
-# *targetted* communication
+# *targeted* communication
 
 ---
 
