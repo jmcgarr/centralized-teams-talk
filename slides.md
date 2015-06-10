@@ -9,14 +9,12 @@
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/F-15C.jpg/1280px-F-15C.jpg)
 
 ^ when I was a kid, I was obsessed with fighter jets…
-image attribution: http://bit.ly/1dXNQ6h
 
 ---
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/F-14_from_VF-102_with_TARPS.jpg/1280px-F-14_from_VF-102_with_TARPS.jpg)
 
 ^ my favorite was the F-14 Tomcat...
-image attribution: http://bit.ly/1HfEpeB
 
 ---
 
@@ -24,7 +22,6 @@ image attribution: http://bit.ly/1HfEpeB
 
 ^ How does a plane fly?
 There are four forces (https://www.grc.nasa.gov/www/k-12/airplane/forces.html)
-image attribution: http://bit.ly/1Ezfwol
 
 ---
 
@@ -42,13 +39,13 @@ image attribution: http://bit.ly/1Ezfwol
 
 ![](images/airbus-lift.png)
 
-^ gravity+mass provides weight
+^ lift impacted by shape, size and velocity of aircraft
 
 ---
 
 ![](images/airbus-weight.png)
 
-^ lift impacted by shape, size and velocity of aircraft
+^ gravity+mass provides weight
 
 ---
 
@@ -129,7 +126,6 @@ context not control
 
 ^ Engtools must provide tools/services that customers want/need
 they have the right to go elsewhere
-image attribution: http://bit.ly/1KiFMcq
 
 ---
 
@@ -138,7 +134,6 @@ image attribution: http://bit.ly/1KiFMcq
 # we build *products*
 
 ^ we don't own builds, or manage releases
-image attribution: http://bit.ly/ZfZFxv
 
 ---
 
@@ -153,11 +148,11 @@ image attribution: http://bit.ly/ZfZFxv
 
 ---
 
-# *opaque* paved road
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Highway_401_by_401-DVP.jpg/1280px-Highway_401_by_401-DVP.jpg)
 
 ---
 
-# *composite* paved road
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/DirtRoadByAmiltonReis.jpg/1280px-DirtRoadByAmiltonReis.jpg)
 
 ---
 
@@ -169,8 +164,6 @@ image attribution: http://bit.ly/ZfZFxv
 
 # be your own customer
 
-^ image attribution: http://bit.ly/1BSOIye
-
 ---
 
 ![](images/nflx-hq-2.JPG)
@@ -178,6 +171,7 @@ image attribution: http://bit.ly/ZfZFxv
 
 ---
 
+![right](https://c1.staticflickr.com/9/8464/8414687817_04bc83d9aa_k.jpg)
 # supporting the paved road
 
 - support emails
@@ -204,8 +198,6 @@ image attribution: http://bit.ly/ZfZFxv
 
 # first responder
 
-^ image attribution: http://bit.ly/1G7XPAM
-
 ---
 
 ![original](images/ticketing-system.png)
@@ -220,15 +212,13 @@ image attribution: http://bit.ly/ZfZFxv
 ## [fit] *communication* 
 ## channels for **customers**
 
-^ image attribution: http://bit.ly/1HdJAGA
-
 ---
 
 # community support
 
 ---
 
-# chatops
+# chat
 ![right fit](images/hipchat.png)
 
 ---
@@ -331,14 +321,10 @@ image attribution: http://bit.ly/ZfZFxv
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Utrecht_Moreelse_Heraclite.JPG/1244px-Utrecht_Moreelse_Heraclite.JPG)
 > *change* is the only constant
 
-^ image attribution: http://bit.ly/1FJXqzE
-
 --- 
 
 ![](http://www.jmu.edu/_images/news/2008-oct-obama-campaign-photo)
 # change *campaigns*
-
-^ image attribution: http://bit.ly/1L71AWq
 
 ---
 
@@ -358,8 +344,6 @@ image attribution: http://bit.ly/ZfZFxv
 ---
 
 ![fit](images/adoption-curve.jpg)
-
-^ image attribution: http://bit.ly/1FrlBXK
 
 ---
 
