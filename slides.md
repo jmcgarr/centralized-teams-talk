@@ -415,6 +415,6 @@ they have the right to go elsewhere
 
 ![](images/nflx-hq-5.JPG)
 # we're *hiring*
-### Senior Gradle Engineer - [click to apply](https://jobs.netflix.com/jobs/NFX01905/apply)
-### Senior Full Stack Engineer - [click to apply]()
+### Senior Gradle Engineer - [click to apply](https://jobs.netflix.com/jobs/2416/apply)
+### Senior Full Stack Engineer - [click to apply](https://jobs.netflix.com/jobs/2414/apply)
 ### email me - [mmcgarr@netflix.com](emailto:mmcgarr@netflix.com)
