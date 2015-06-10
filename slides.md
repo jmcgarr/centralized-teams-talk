@@ -9,6 +9,7 @@
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/F-15C.jpg/1280px-F-15C.jpg)
 
 ^ when I was a kid, I was obsessed with fighter jets…
+image attribution: http://bit.ly/1dXNQ6h
 
 ---
 
@@ -164,9 +165,11 @@ image attribution: http://bit.ly/ZfZFxv
 
 ---
 
-![](images/dogfood.jpg)
+![](https://c3.staticflickr.com/3/2070/2086542415_0c6b433e79_b.jpg)
 
 # be your own customer
+
+^ image attribution: http://bit.ly/1BSOIye
 
 ---
 
@@ -201,6 +204,8 @@ image attribution: http://bit.ly/ZfZFxv
 
 # first responder
 
+^ image attribution: http://bit.ly/1G7XPAM
+
 ---
 
 ![original](images/ticketing-system.png)
@@ -214,6 +219,8 @@ image attribution: http://bit.ly/ZfZFxv
 ## optimize 
 ## [fit] *communication* 
 ## channels for **customers**
+
+^ image attribution: http://bit.ly/1HdJAGA
 
 ---
 
@@ -255,21 +262,21 @@ image attribution: http://bit.ly/ZfZFxv
 
 ---
 
-![fit](images/asgard.png)
+![fit](http://3.bp.blogspot.com/-adtTk2KJUg8/T-TOx8gdXdI/AAAAAAAACn8/27MrXWCK_DE/s640/applications.png)
 
 ---
 
-![fit](images/asgard.png)
+![fit](http://3.bp.blogspot.com/-adtTk2KJUg8/T-TOx8gdXdI/AAAAAAAACn8/27MrXWCK_DE/s640/applications.png)
 
 # *distribute* innovation
 
 ---
 
-![original](images/hackday.png)
+![original](https://lh6.googleusercontent.com/_1wzfqH3MpvQC6p6n8CrQ5KYhdrg7MMNc6d-dpA6O-sZlHQ_zwBeO1oTMHwaoHQemywxNwKH3hfTnUfT5H_rX1xA7bVVSEznQwe1mWZUjQFnELqvfAs1AdDqhi5MJg32d5j9YsI)
 
 ---
 
-![](images/hackday.png)
+![](https://lh6.googleusercontent.com/_1wzfqH3MpvQC6p6n8CrQ5KYhdrg7MMNc6d-dpA6O-sZlHQ_zwBeO1oTMHwaoHQemywxNwKH3hfTnUfT5H_rX1xA7bVVSEznQwe1mWZUjQFnELqvfAs1AdDqhi5MJg32d5j9YsI)
 # *institutionalize* innovation
 
 ---
@@ -321,13 +328,17 @@ image attribution: http://bit.ly/ZfZFxv
 
 --- 
 
-![](images/heraclite.jpg)
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Utrecht_Moreelse_Heraclite.JPG/1244px-Utrecht_Moreelse_Heraclite.JPG)
 > *change* is the only constant
+
+^ image attribution: http://bit.ly/1FJXqzE
 
 --- 
 
-![](images/obama-campaign.jpeg)
+![](http://www.jmu.edu/_images/news/2008-oct-obama-campaign-photo)
 # change *campaigns*
+
+^ image attribution: http://bit.ly/1L71AWq
 
 ---
 
@@ -347,6 +358,8 @@ image attribution: http://bit.ly/ZfZFxv
 ---
 
 ![fit](images/adoption-curve.jpg)
+
+^ image attribution: http://bit.ly/1FrlBXK
 
 ---
 
@@ -418,25 +431,6 @@ image attribution: http://bit.ly/ZfZFxv
 
 ![](images/nflx-hq-5.JPG)
 # we're *hiring*
-### apply - [Build Tools Engineer](https://jobs.netflix.com/jobs/NFX01905/apply)
+### Senior Gradle Engineer - [click to apply](https://jobs.netflix.com/jobs/NFX01905/apply)
+### Senior Full Stack Engineer - [click to apply]()
 ### email me - [mmcgarr@netflix.com](emailto:mmcgarr@netflix.com)
-### tweet me - [@SonOfGarr](http://twitter.com/SonOfGarr)
-### LinkedIn - [jmcgarr](https://www.linkedin.com/in/jmcgarr)
-
----
-### image attributions
-
-- F-15: http://bit.ly/1dXNQ6h
-- AA Airbus: http://bit.ly/1Ezfwol
-
----
-### image attributions (con't)
-
-- dogfood: http://bit.ly/1BSOIye
-- firefighters: http://bit.ly/1G7XPAM
-- doors: http://bit.ly/1HdJAGA
-- Heraclite: http://bit.ly/1FJXqzE
-- Adoption curve: http://bit.ly/1FrlBXK
-
-
-
