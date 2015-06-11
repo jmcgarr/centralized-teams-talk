@@ -100,13 +100,17 @@ There are four forces (https://www.grc.nasa.gov/www/k-12/airplane/forces.html)
 
 ---
 
-# freedom & responsibility
 ![100%](images/nflx-culture.png)
 
 ^ freedom & responsibility
 senior engineers
 high performance culture
 context not control
+
+---
+
+![100%](images/nflx-culture.png)
+# you build it, you support it
 
 ---
 
@@ -333,6 +337,8 @@ they have the right to go elsewhere
 # *targeted* communication
 
 ---
+
+![right](images/engtools-poster-jenkins.jpg)
 
 # beyond email
 
