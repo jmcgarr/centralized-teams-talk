@@ -175,38 +175,14 @@ they have the right to go elsewhere
 
 ---
 
-![right](https://c1.staticflickr.com/9/8464/8414687817_04bc83d9aa_k.jpg)
-# supporting the paved road
-
-- support emails
-- hipchat questions
-- walk-bys
-- meetings
-- bug reports
-- feature requests
+![100%](images/nflx-culture.png)
+# you build it, you support it
 
 ---
 
-![](images/makers-schedule.png)
+# sometimes tools break
 
-# maker's schedule
-
-> For someone on the *maker's schedule*, having a meeting is like throwing an exception. It doesn't merely cause you to switch from one task to another; it changes the mode in which you work.[^1]
--- Paul Graham
-
-[^1]: http://www.paulgraham.com/makersschedule.html
-
----
-
-![original](http://upload.wikimedia.org/wikipedia/commons/0/0a/Aircraft_Rescue_Firefighting_training.jpg)
-
-# first responder
-
----
-
-![original](images/ticketing-system.png)
-
-# ticketing system
+^ when things do break, we want to make it easy for customers to get help
 
 ---
 
@@ -218,27 +194,53 @@ they have the right to go elsewhere
 
 ---
 
-# community support
-
----
-
 # chat
-![right fit](images/hipchat.png)
+![right](images/hipchat.png)
 
 ---
 
-# Q & A
-
-![left fit](images/osqa.png)
+# email
 
 ---
 
-![inline](images/chair-2.png)![inline](images/chair-3.png)![inline](images/chair-5.png)
-![inline](images/chair-1.png)![inline](images/chair-4.png)
+![](https://c1.staticflickr.com/1/51/112323609_2bb22fb0d5_o.jpg)
+# walk-bys
 
 ---
 
-# don't underestimate *usability*
+# [fit]more than *five* minutes
+
+---
+
+![original](images/ticketing-system.png)
+
+# create a 
+# [fit]ticket
+
+---
+
+# *interruptions*
+
+---
+
+![](images/makers-schedule.png)
+
+# maker's schedule
+
+---
+
+![original](http://upload.wikimedia.org/wikipedia/commons/0/0a/Aircraft_Rescue_Firefighting_training.jpg)
+
+# first responder
+
+---
+
+![250%](images/feedback.png)
+
+---
+
+![250%](images/feedback.png)
+# tool centric
 
 ---
 
@@ -414,7 +416,7 @@ they have the right to go elsewhere
 
 ## understand your *customers*
 ## develop a customer *support* model
-## *innovation* needs time
+## make space for *innovation*
 ## make continuous *change* easy
 
 ---
@@ -424,3 +426,8 @@ they have the right to go elsewhere
 ### Senior Gradle Engineer - [click to apply](https://jobs.netflix.com/jobs/2416/apply)
 ### Senior Full Stack Engineer - [click to apply](https://jobs.netflix.com/jobs/2414/apply)
 ### email me - [mmcgarr@netflix.com](emailto:mmcgarr@netflix.com)
+
+---
+
+### *image attributions:* http://bit.ly/1KrwACQ
+### *github repo:* https://github.com/jmcgarr/centralized-teams-talk
