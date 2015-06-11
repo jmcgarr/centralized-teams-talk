@@ -362,7 +362,7 @@ they have the right to go elsewhere
 
 ---
 
-# "a cure for what ails yeah"
+# "a cure for what ails ye"
 ![inline original](images/adoption-curve-3.jpg)
 
 ---
