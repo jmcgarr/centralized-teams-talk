@@ -8,13 +8,14 @@
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/F-15C.jpg/1280px-F-15C.jpg)
 
-^ when I was a kid, I was obsessed with fighter jets…
+^ kid -> obsessed w/ jets
+learned everything
 
 ---
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/F-14_from_VF-102_with_TARPS.jpg/1280px-F-14_from_VF-102_with_TARPS.jpg)
 
-^ my favorite was the F-14 Tomcat...
+^ favorite -> F-14 Tomcat...
 
 ---
 
@@ -33,13 +34,19 @@ There are four forces (https://www.grc.nasa.gov/www/k-12/airplane/forces.html)
 
 ![](images/airbus-drag.png)
 
-^ drag impacted by shape, air stickiness and velocity of aircraft
+^ drag impacted by 
+shape, 
+air stickiness 
+and velocity of aircraft
 
 ---
 
 ![](images/airbus-lift.png)
 
-^ lift impacted by shape, size and velocity of aircraft
+^ lift impacted by 
+shape, 
+size 
+and velocity of aircraft
 
 ---
 
@@ -55,17 +62,25 @@ There are four forces (https://www.grc.nasa.gov/www/k-12/airplane/forces.html)
 
 ![](images/engtools-arrows.png)
 
+^ many forces impacting engtools
+
 ---
 
 ![](images/engtools-customers.png)
+
+^ we want delighted customers
 
 ---
 
 ![](images/engtools-innovation.png)
 
+^ continually innovate
+
 ---
 
 ![](images/engtools-change.png)
+
+^ innovation creates change
 
 ---
 
@@ -109,8 +124,19 @@ context not control
 
 ---
 
-![100%](images/nflx-culture.png)
-# you build it, you support it
+![fit](images/cloud.png)
+
+## microservices
+
+---
+
+![fit](images/cloud.png)
+
+## highly aligned, loosely coupled
+
+---
+
+# *sub*cultures
 
 ---
 
@@ -125,9 +151,13 @@ they have the right to go elsewhere
 
 ![](http://upload.wikimedia.org/wikipedia/commons/6/67/Steve_Jobs_Headshot_2010.JPG)
 
-# we build *products*
+# [fit]we build *products*
 
 ^ we don't own builds, or manage releases
+
+---
+
+# [fit] the Paved Road
 
 ---
 
@@ -135,15 +165,11 @@ they have the right to go elsewhere
 
 ![inline](images/engtools-paved-road.png)
 
----
+----
 
-![fit](images/cloud.png)
+# the Paved Road
 
-## microservices
-
----
-
-# *sub*cultures
+![inline](images/paved-road-details.png)
 
 --- 
 
@@ -160,7 +186,9 @@ they have the right to go elsewhere
 
 ---
 
-![](images/spectrum.jpg)
+![original](images/spectrum.jpg)
+
+# wide *spectrum* of needs
 
 ---
 
@@ -197,14 +225,22 @@ they have the right to go elsewhere
 # chat
 ![right](images/hipchat.png)
 
+^ use hipchat
+rooms per tool
+EngToolsHelp room
+- super low friction
+- problem: shit gets lost
+
 ---
 
 # email
+![left](images/emails.png)
 
----
-
-![](https://c1.staticflickr.com/1/51/112323609_2bb22fb0d5_o.jpg)
-# walk-bys
+^ very comfortable here
+team-based aliases
+EngTools bucket
+- low friction
+- problem: shit also get lost
 
 ---
 
@@ -212,14 +248,18 @@ they have the right to go elsewhere
 
 ---
 
-![original](images/ticketing-system.png)
+![](https://c1.staticflickr.com/1/51/112323609_2bb22fb0d5_o.jpg)
+# walk-bys
 
-# create a 
-# [fit]ticket
+^ great for tough problems
+advantage of co-location
+work problem til resolved
 
 ---
 
 # *interruptions*
+
+^ support creates interruptions
 
 ---
 
@@ -227,12 +267,46 @@ they have the right to go elsewhere
 
 # maker's schedule
 
+^ engineering is creative
+creative work needs large blocks of time
+minimize meetings/interruptions
+
 ---
 
 ![original](http://upload.wikimedia.org/wikipedia/commons/0/0a/Aircraft_Rescue_Firefighting_training.jpg)
 
 # first responder
 
+^ 
+Pagerduty 
+
+---
+
+# ad hoc
+
+---
+
+![original](images/ticketing-system.png)
+
+# we have avoided
+# [fit]ticketing systems
+
+^ strong aversion (process)
+tend to introduce friction
+- we are fairly ad hoc
+- this is changing
+
+---
+
+![](images/ticketing-system.png)
+
+# make creating a ticket
+# [fit]*easy*
+
+^ running experiments 
+integrate chat + email with JIRA
+- similar to build reciepts
+
 ---
 
 ![250%](images/feedback.png)
@@ -240,7 +314,7 @@ they have the right to go elsewhere
 ---
 
 ![250%](images/feedback.png)
-# tool centric
+# minimize *context* switching
 
 ---
 
