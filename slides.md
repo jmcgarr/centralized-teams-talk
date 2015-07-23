@@ -497,7 +497,6 @@ integrate chat + email with JIRA
 
 ![](images/nflx-hq-5.JPG)
 # we're *hiring*
-### Senior Gradle Engineer - [click to apply](https://jobs.netflix.com/jobs/2416/apply)
 ### Senior Full Stack Engineer - [click to apply](https://jobs.netflix.com/jobs/2414/apply)
 ### email me - [mmcgarr@netflix.com](emailto:mmcgarr@netflix.com)
 
